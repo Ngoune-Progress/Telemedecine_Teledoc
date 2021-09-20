@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314505616447",
+    "project_id": "teledoc-5cd0e",
+    "storage_bucket": "teledoc-5cd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314505616447:android:06a9abd35cab7bbd55ac8a",
+        "android_client_info": {
+          "package_name": "com.example.teledoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314505616447-i9ctubi7hem6h2bhl5lubcustlifl97j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKcR2x_mKrL-FREy_LWaT6DkNiTMPTWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314505616447-i9ctubi7hem6h2bhl5lubcustlifl97j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
